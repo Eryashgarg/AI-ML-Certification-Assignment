@@ -26,7 +26,7 @@ The assignment consists of the following tasks:
 
 ## Code Structure
 
-- `titanic.ipynb`: Jupyter Notebook containing the Python code for data analysis and preprocessing.
+- `Data Preprocessing Assignment.ipynb`: Jupyter Notebook containing the Python code for data analysis and preprocessing.
 - `titanic.csv`: Titanic dataset in CSV format.
 - `README.md`: This file providing an overview of the assignment and instructions.
 
